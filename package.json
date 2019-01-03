@@ -1,5 +1,5 @@
 {
-    "name": "raks-sql",
+    "name": "wap3-lib",
     "version": "1.0.7",
     "description": "RAKS sql",
     "main": "index.js",
