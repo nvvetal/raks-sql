@@ -1,0 +1,23 @@
+{
+    "name": "raks-sql",
+    "version": "1.0.7",
+    "description": "RAKS sql",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nvvetal/raks-sql.git"
+    },
+    "keywords": [
+        "raks"
+    ],
+    "author": "Vitaliy Grinchishin",
+    "license": "MIT",
+    "homepage": "https://github.com/nvvetal/raks-sql.git",
+    "dependencies": {
+        "mysql": "2.12.0"
+    }
+}
