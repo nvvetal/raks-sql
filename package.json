@@ -1,6 +1,6 @@
 {
     "name": "raks-sql",
-    "version": "1.0.7",
+    "version": "1.0.9",
     "description": "RAKS sql",
     "main": "index.js",
     "scripts": {
@@ -18,6 +18,6 @@
     "license": "MIT",
     "homepage": "https://github.com/nvvetal/raks-sql.git",
     "dependencies": {
-        "mysql": "2.12.0"
+        "mysql": "^2.16.0"
     }
 }
