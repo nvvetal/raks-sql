@@ -1,6 +1,6 @@
 {
     "name": "@nvvetal/raks-sql",
-    "version": "1.0.11",
+    "version": "1.0.15",
     "description": "RAKS sql",
     "main": "index.js",
     "scripts": {

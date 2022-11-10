@@ -1,3 +1,6 @@
+**v1.0.15**
+fix on fatal error
+
 **v1.0.7**
 multipleStatements
 
