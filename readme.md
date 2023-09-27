@@ -1,3 +1,6 @@
+**v1.0.16**
+added charset
+
 **v1.0.15**
 fix on fatal error
 
